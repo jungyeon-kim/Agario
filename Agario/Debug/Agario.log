@@ -1,0 +1,4 @@
+﻿  김정연.cpp
+c:\users\김정연\desktop\agario\agario\김정연.cpp(95): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김정연\desktop\agario\agario\김정연.cpp(86): warning C4101: 'hFont' :참조되지 않은 지역 변수입니다.
+  Agario.vcxproj -> C:\Users\김정연\Desktop\Agario\Debug\Agario.exe
